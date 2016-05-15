@@ -1,11 +1,13 @@
-Codebook for Tidy.csv
+### Codebook for Tidy.txt
+
 This codebook summarizes the result of data fields in : Numerictidy.csv: Numeric.
 
 The tidy data contains 180 records, corresponding to 30 subjects’ average activity data for 6 types of activities.
 
 There are 68 variables in the tidy data. The first two variables are identifiers represented.  The rest of 66 variables are all the average of mean values and standard deviation values for data collected from different sensors.
 
-Identifier:
+## Identifier:
+
 Subject [integer] - Identifies the subject who performed the activity
 Activity [character] - Name of activity, including:
 
@@ -16,7 +18,8 @@ Activity [character] - Name of activity, including:
 	•	STANDING: subject was standing during the test
 	•	LAYING: subject was laying down during the test
 
-Measurements
+## Measurements
+The dataset contains the following measures:
 	•	TimeBodyAccelerometer-mean()-X: Numeric                    
 	•	TimeBodyAccelerometer-mean()-Y: Numeric                    
 	•	TimeBodyAccelerometer-mean()-Z: Numeric                    
