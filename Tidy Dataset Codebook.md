@@ -1,6 +1,6 @@
 ### Codebook for Tidy.txt
 
-This codebook summarizes the result of data fields in : Numerictidy.csv: Numeric.
+This codebook summarizes the result of data fields in : tidy.txt.
 
 The tidy data contains 180 records, corresponding to 30 subjects’ average activity data for 6 types of activities.
 
@@ -82,7 +82,7 @@ The dataset contains the following measures:
 	•	FrequencyBodyAccelerometerMagnitude-std(): Numeric         
 	•	FrequencyBodyBodyAccelerometerJerkMagnitude-mean(): Numeric
 	•	FrequencyBodyBodyAccelerometerJerkMagnitude-std(): Numeric 
-	•	FrequencyBodyBodyGyroscopeMagnitude-mean(): Numeric        
+    . FrequencyBodyBodyGyroscopeMagnitude-mean(): Numeric        
 	•	FrequencyBodyBodyGyroscopeMagnitude-std(): Numeric         
 	•	FrequencyBodyBodyGyroscopeJerkMagnitude-mean(): Numeric    
 	•	FrequencyBodyBodyGyroscopeJerkMagnitude-std(): Numeric
