@@ -30,8 +30,7 @@ search and Replace abbreviation to be more decrypted text
 ### Step5: Create tidy dataset with Average of each variable for each activity and subject
 Create dataset and write to today.txt file
 
-
-## The end result is shown in the file tidy.txt.
+The end result is shown in the file tidy.txt.
 
 ## Codebook.md
 The Tidy Dataset Codebook.md contains the description of the variables for the tidy.txt
